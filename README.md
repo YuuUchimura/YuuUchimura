@@ -1,3 +1,6 @@
+<!-- Snake -->
+![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/YuuUchimura/YuuUchimura">
     <img height="20" src="https://komarev.com/ghpvc/?username=YuuUchimura" />
@@ -17,9 +20,6 @@
 </p>
 
 ## Hi there I'm Yuu Uchimura Full stack web developer 👋
-
-<!-- Snake -->
-![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuuUchimura&theme=gruvbox)
