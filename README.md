@@ -11,7 +11,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![SASS](https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 
 ### Backend Technologies
