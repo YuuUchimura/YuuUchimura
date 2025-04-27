@@ -2,14 +2,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuUchimura&theme=gruvbox&layout=compact&langs_count=5&hide=php" height="195px" alt="Sho's GitHub streak"/>
 
 ### Frontend Technologies
-![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![SASS](https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
