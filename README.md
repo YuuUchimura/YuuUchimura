@@ -25,12 +25,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuuUchimura&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuuUchimura&theme=gruvbox&utcOffset=9)
 
+<!-- Snake -->
+![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
+
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=YuuUchimura&theme=gruvbox)
 
-## Snake
-![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
