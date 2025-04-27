@@ -18,16 +18,15 @@
 
 ## Hi there I'm Yuu Uchimura Full stack web developer 👋
 
+<!-- Snake -->
+![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuuUchimura&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuuUchimura&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuuUchimura&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuuUchimura&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuuUchimura&theme=gruvbox&utcOffset=9)
-
-<!-- Snake -->
-![](https://raw.githubusercontent.com/YuuUchimura/YuuUchimura/output/github-contribution-grid-snake.svg)
-
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=YuuUchimura&theme=gruvbox)
