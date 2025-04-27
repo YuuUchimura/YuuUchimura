@@ -17,6 +17,17 @@
 </p>
 
 ## Hi there I'm Yuu Uchimura Full stack web developer 👋
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuuUchimura&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuuUchimura&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuuUchimura&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuuUchimura&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuuUchimura&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=YuuUchimura&theme=gruvbox)
+
 <!--
 **YuuUchimura/YuuUchimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
